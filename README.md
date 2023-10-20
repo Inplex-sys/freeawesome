@@ -12,6 +12,10 @@ An easy way to got the pro fontawesome icons for free in React and HTML
 <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.4.2/css/sharp-regular.css" />
 <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.4.2/css/sharp-light.css" />
 ```
+### Example:
+```html
+<Icon type="solid" icon="arrow-left" size="xl"/>
+```
 
 ## Disclamer
 The Freeawesome project is intended for educational purposes only. The project and its associated documentation, including this README file, are created and provided to users for the sole purpose of learning, experimentation, and educational exploration. Any use of the Freeawesome project or its components for commercial, professional, or any other purpose beyond educational activities is strictly prohibited.
