@@ -14,7 +14,7 @@ An easy way to got the pro fontawesome icons for free in React and HTML
 ```
 ### Example:
 ```html
-<Icon type="solid" icon="arrow-left" size="xl"/>
+<Icon type="solid" icon="arrow-left" size="xl" flip="vertical" rotate={180}/>
 ```
 
 ## Disclamer
