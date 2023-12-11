@@ -1,7 +1,7 @@
 import { Component } from 'react'
 
 type Props = {
-    type: "solid" | "regular" | "light" | "brands" | "thin" | "duotone",
+    type: "solid" | "regular" | "sharp" | "light" | "brands" | "thin" | "duotone",
     icon: string,
     size?: string,
     flip?: "horizontal" | "vertical",
